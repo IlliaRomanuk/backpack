@@ -20,6 +20,8 @@ This project is a fully designed commercial landing page for a travel backpack p
 - Smooth user purchase journey
 
 ---
+live demo: https://backpack-rust-eight.vercel.app/
+---
 
 ## Features
 
