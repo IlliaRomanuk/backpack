@@ -4,6 +4,10 @@ A responsive one-page eCommerce landing page designed to promote and sell the **
 
 ---
 
+## Live Demo
+
+🔗https://illiaromanuk.github.io/backpack/
+
 ## Project Overview
 
 This project is a fully designed commercial landing page for a travel backpack product.
